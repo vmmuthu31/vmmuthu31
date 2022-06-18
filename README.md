@@ -2,7 +2,7 @@
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vmmuthu31&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
-<p align="center"> <img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">
+<p align="center"> <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
  
 - 📫 How to reach me **mvairamuthu2003@gmail.com.com**
 
