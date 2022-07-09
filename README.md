@@ -2,7 +2,7 @@
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vmmuthu31&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
-<p align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<p align="center"> <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif">
  
 - 📫 How to reach me **mvairamuthu2003@gmail.com.com**
 
