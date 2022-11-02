@@ -7,7 +7,7 @@
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E Computer Science Engineering
-- 👨‍💼: &nbsp; [GSOC"22 Contributor](https://summerofcode.withgoogle.com/programs/2022/projects/TbEfG95X)
+- 👨‍💼: &nbsp; [GSOC"22](https://summerofcode.withgoogle.com/programs/2022/projects/TbEfG95X)**Open Source Contributor**
 - :writing_hand: &nbsp;Read my articles on [Medium](https://medium.com/@mvairamuthu20000)
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
