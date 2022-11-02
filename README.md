@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vmmuthu31&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vairamuthu M" align="right" />
 </a>
 
-- 🏫: &nbsp;I'm Pursuing B.E Computer Science Engineering
+- 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"24
 - 👨‍💼: &nbsp; [GSOC"22](https://summerofcode.withgoogle.com/programs/2022/projects/TbEfG95X) **Open Source Contributor**
 - :writing_hand: &nbsp;Read my articles on [Medium](https://medium.com/@mvairamuthu20000)
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
