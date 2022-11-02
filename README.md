@@ -4,6 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vmmuthu31&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
 <p align="center"> <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif">
  
+ <a href="#vmmuthu31-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=vmmuthu31&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vairamuthu " align="right" />
+</a>
+ 
 - 📫 How to reach me **mvairamuthu2003@gmail.com.com**
 
 - 📝 Read my articles on [Medium](https://medium.com/@mvairamuthu20000)
