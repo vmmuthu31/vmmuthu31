@@ -196,7 +196,7 @@
 </table>
 
 
-[![Vairamuthu's github activity graph](https://activity-graph.herokuapp.com/graph?username=vmmuthu31&theme=react-dark)](https://github.com/vmmuthu31)
+
 
 
 
