@@ -195,8 +195,9 @@
     
 </table>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthiram2612&show_icons=true&locale=en&layout=compact" alt="keerthiram2612" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthiram2612&" alt="keerthiram2612" /></p>
 
-[![Vairamuthu's github activity graph](https://activity-graph.herokuapp.com/graph?username=vmmuthu31&theme=react-dark)](https://github.com/vmmuthu31)
 
 
 
