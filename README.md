@@ -13,7 +13,7 @@
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/vmmuthu31/)
 - 📫 How to reach me **mvairamuthu2003@gmail.com.com**
-- :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/Vairamu56935830)
+- :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/Barfi_31)
 
 
 <br>
