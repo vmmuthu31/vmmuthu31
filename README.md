@@ -1,22 +1,81 @@
-<h1 align="center">Hi 👋, I'm Vairamuthu</h1>
-<h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
+[![Banner](https://github.com/user-attachments/assets/8b508b0e-843f-42b0-84c0-02f4fa797640)](https://github.com/vmmuthu31)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vmmuthu31&label=Profile%20views&color=0e75b6&style=flat" alt="vmmuthu31" /> </p>
-<a href="#vmmuthu31-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmmuthu31&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Vairamuthu M" align="right" />
+<h1 align="center">Hi 👋 I'm Vairamuthu M</h1>
+
+<h3 align="center">
+AI × Web3 Infrastructure Engineer • Open Source Contributor • Founder
+</h3>
+
+<p align="center">
+Building production-grade infrastructure for AI Agents, Web3 Ecosystems, and Developer Platforms.
+</p>
+
+<p align="center">
+<a href="https://github.com/vmmuthu31">
+<img src="https://komarev.com/ghpvc/?username=vmmuthu31&label=Profile+Views&color=0e75b6&style=flat" />
 </a>
 
-- 🏫: &nbsp;I'm graduate B.E CSE at JEC"24 and pursuing M.E CSE at JEC"26
-- 👨‍💼: &nbsp; [GSOC"22](https://summerofcode.withgoogle.com/programs/2022/projects/TbEfG95X) **Open Source Contributor**
-- :writing_hand: &nbsp;Read my articles on [Medium](https://medium.com/@mvairamuthu20000)
-- :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/vmmuthu/)
-- 📫 How to reach me **mvairamuthu2003@gmail.com.com**
-- :bird: &nbsp;Let's talk more in [Twitter](https://twitter.com/Barfi_31)
+<a href="https://github.com/vmmuthu31?tab=followers">
+<img src="https://img.shields.io/github/followers/vmmuthu31?label=Followers&style=flat&color=blue" />
+</a>
 
+<a href="https://github.com/vmmuthu31">
+<img src="https://img.shields.io/github/stars/vmmuthu31?affiliations=OWNER&style=flat&color=yellow" />
+</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🏛 Former **Web3 Full Stack Engineer** at **Polkassembly**
+* 🌍 Built governance infrastructure serving **100+ blockchain networks**
+* 🏆 Winner of **24+ International Hackathons**
+* 🌱 **Google Summer of Code** Contributor (Drupal)
+* 🚀 Founder of **Gryphin Web3 Innovations**
+* 👨‍🏫 Mentored **500+ aspiring developers**
+* 🤖 Currently building **AI-native developer tools**, **LLM security platforms**, and **Agentic AI systems**
+
+---
+
+## 🌐 Connect with Me
+
+* 🌍 Portfolio — **https://vairamuthu.vercel.app**
+* 💼 LinkedIn — **https://linkedin.com/in/vmmuthu31**
+* 📝 Medium — **https://medium.com/@mvairamuthu20000**
+* 🐦 Twitter/X — **https://twitter.com/Barfi_31**
+* 📧 Email — **[mvairamuthu20000@gmail.com](mailto:mvairamuthu20000@gmail.com)**
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img width="55%" src="https://streak-stats.demolab.com?user=vmmuthu31&theme=dark&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmmuthu31&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=vmmuthu31&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"/>
+</p>
+
+---
+
+## ⚡ Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🏆%2024+-Hackathon%20Wins-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍%20100+-Networks-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%206500+-Contributions-black?style=for-the-badge"/>
 
 <br>
+
+<img src="https://img.shields.io/badge/🚀%2020+-Projects-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👨‍🏫%20500+-Students-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌎%207+-Countries-red?style=for-the-badge"/>
+
+</p>
 
 <h2 align="left" id=""vmmuthu31>Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
@@ -25,13 +84,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -49,7 +108,7 @@
     </td>
     <td align="center" width="96">
       <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -67,7 +126,7 @@
     </td>
     <td align="center" width="96">
       <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="48" height="48" alt="Node JS" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Os0zJwzhfavrr_gjKhCyREZswfpVEvlCUzvE0tZFjBg1FjMs6iUhxhk&s=10" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
@@ -88,7 +147,7 @@
     </td>
     <td align="center" width="96">
       <a href="#vmmuthu31" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
@@ -100,7 +159,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/330px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
       </a>
       <br>Electron
     </td>
@@ -112,19 +171,19 @@
     </td>
     <td align="center"  width="96">
       <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
+        <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png?0" width="48" height="48" alt="WordPress" />
       </a>
       <br>WordPress
     </td>
     <td align="center" width="96">
       <a href="#vmmuthu31" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
     <td align="center" width="96">
       <a href="#vmmuthu31" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1280px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
@@ -138,7 +197,7 @@
    <tr>
     <td align="center" width="96">
       <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/960px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
@@ -156,13 +215,13 @@
     </td>
     <td align="center" width="96">
       <a href="#vmmuthu31">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1280px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
       </a>
       <br>Tensorflow
     </td>
     <td align="center" width="96">
       <a href="#suhailakar-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+        <img src="https://v4.mui.com/static/logo.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
     </td>
@@ -180,7 +239,7 @@
     </td>
           <td align="center" width="96"> 
       <a href="#vmmuthu31" >
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3_5rRkc2EIToLRNyPBc6WSn-Zh9sM8kzg17jiZCWILQ&s=10" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
